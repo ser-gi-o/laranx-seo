@@ -95,7 +95,7 @@ Rendered Tags:
 
 Want a complete marketing solution with admin interface, site configuration, site tag fallback, and theme management features consider 
 purchasing 
-[![LaraNx Seo and Theme Management!](https://laranx.com/images/laranxseo/laranx-full-cover.png "LaraNx Seo and Theme Management")](https://laranx.com/images/laranxseo/laranx-full-cover.png "LaraNx Seo and Theme Management")
+[![LaraNx Seo and Theme Management!](https://laranx.com/images/laranxseo/laranx-full-cover.png "LaraNx Seo and Theme Management")](https://laranx.com "LaraNx Seo and Theme Management")
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
