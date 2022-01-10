@@ -1,0 +1,29 @@
+{
+    "name": "srg/laranx-seo",
+    "description": "LaraNx - SEO tag management for Laravel",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergio",
+            "email": "laranxphp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "illuminate/support": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Srg\\LaranxSeo\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Srg\\LaranxSeo\\LaranxSeoServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}
