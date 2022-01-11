@@ -1,8 +1,18 @@
 {
     "name": "srg/laranx-seo",
-    "description": "LaraNx - SEO tag management for Laravel",
+    "description": "LaraNx SEO, meta tag management for Laravel websites",
     "type": "package",
     "license": "MIT",
+    "keywords": [
+        "srg",
+        "laranx",
+        "laranx-seo",
+        "SEO",
+        "meta tags",
+        "facebook",
+        "twitter",
+        "laravel"
+    ],
     "authors": [
         {
             "name": "Sergio",

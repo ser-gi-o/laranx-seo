@@ -136,4 +136,16 @@ class Tag extends Model
 
         return $title && $description && $image;
     }
+
+    /**
+     * Wrapper to quickly set a value in a field and save record
+     *
+     * @param $field
+     * @param $value
+     */
+    public function set($field, $value)
+    {
+        $this->$field = $value;
+        $this->save();
+    }
 }
